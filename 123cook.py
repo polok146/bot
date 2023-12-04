@@ -1,7 +1,7 @@
 import telebot
 
 
-bot = telebot.TeleBot('6896829367:AAFaQIV2nRlLJzPqAWw2V2eIZQxl7Rlsn0w')
+bot = telebot.TeleBot('')
 
 
 recipes = {'паста карбонара': 'ИНГРИДИЕНТЫ: (2 порции):\n 160 г Спагетти\n 2 яичных желтка\n 60 г сыра\n 80г сырокопченой грудинки\n соль и молотый черный перец по вкусу\n'
